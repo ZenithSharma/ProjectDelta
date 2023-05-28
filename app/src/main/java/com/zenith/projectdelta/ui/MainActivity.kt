@@ -1,7 +1,8 @@
-package com.zenith.projectdelta
+package com.zenith.projectdelta.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.zenith.projectdelta.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
